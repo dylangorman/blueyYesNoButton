@@ -57,7 +57,7 @@ body{
 }
 .yesButton:active {
   box-shadow: 0 0 0 white;
-    margin: 6px 10px 2px 10px;
+   
 }
 
 
@@ -86,7 +86,7 @@ body{
 }
 .noButton:active {
   box-shadow: 0 0 0 white;
-    margin: 6px 10px 2px 10px;
+    
 }
 .N{
   font-family: 'Tilt Neon';
